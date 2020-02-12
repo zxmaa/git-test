@@ -10,6 +10,8 @@ public class FirstClass {
         //hello test
         System.out.println("aaaa");
         System.out.println("clone");
+
+        System.out.println("bbbbb");
     }
 
     public  void test(){
