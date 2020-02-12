@@ -9,9 +9,13 @@ public class FirstClass {
         System.out.println("hello git project");
         //hello test
         System.out.println("aaaa");
-        System.out.println("clone");
+
+
+        System.out.println("clone2");
 
         System.out.println("bbbbb");
+
+        System.out.println("cccc");
     }
 
     public  void test(){
