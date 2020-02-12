@@ -11,7 +11,6 @@ public class FirstClass {
         System.out.println("aaaa");
 
 
-        System.out.println("clone2");
 
         System.out.println("bbbbb");
 
